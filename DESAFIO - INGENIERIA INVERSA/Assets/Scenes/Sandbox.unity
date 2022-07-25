@@ -414,6 +414,22 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 9122584556098555298, guid: ea3f167999758604ab7771dc808fb3f2, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9122584556098555298, guid: ea3f167999758604ab7771dc808fb3f2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9122584556098555298, guid: ea3f167999758604ab7771dc808fb3f2, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9122584556098555298, guid: ea3f167999758604ab7771dc808fb3f2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.569
+      objectReference: {fileID: 0}
     - target: {fileID: 9122584556158577225, guid: ea3f167999758604ab7771dc808fb3f2, type: 3}
       propertyPath: m_Name
       value: Cannon
@@ -461,6 +477,10 @@ PrefabInstance:
     - target: {fileID: 9122584556158577226, guid: ea3f167999758604ab7771dc808fb3f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9122584556158577227, guid: ea3f167999758604ab7771dc808fb3f2, type: 3}
+      propertyPath: canShoot
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9122584556158577227, guid: ea3f167999758604ab7771dc808fb3f2, type: 3}
       propertyPath: munition
